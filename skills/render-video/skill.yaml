@@ -1,0 +1,5 @@
+name: "render-video"
+title: "render-video"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. This skill should be used when the user runs /render-video or asks to \"build the scenes\", \"check the shots\", \"show me a contact sheet\", \"preview the video\", \"render the video\", \"render in 4K / 9:16\", \"re-render after a fix\", or \"export the final MP4\" for an aiTrends 2D Studio project. It writes or repairs shot code in batches with contact-sheet QC, makes preview clips, runs the full frame-by-frame render, and muxes the final video with sound."
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "raw-to-reel"
+title: "raw-to-reel"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Turns one raw talking-head take into a finished 1080x1920 vertical reel in Claude Code with free local tools (ffmpeg, whisper.cpp, headless Playwright): transcribes, keeps the last take of repeated lines, cuts pauses, captions every word, adds real screenshots and official logos, and runs measured QA gates. Use when someone wants a raw phone take edited into a Reel, TikTok or Short, retakes and silences cut, word-by-word captions, or a finished video checked. In Claude.ai it only produces a cut list, shot plan and .srt from a pasted transcript."
+category: "Work and knowledge"
+include_in_prompt: true

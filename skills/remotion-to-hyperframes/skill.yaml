@@ -1,0 +1,5 @@
+name: "remotion-to-hyperframes"
+title: "remotion-to-hyperframes"
+description: "Bring existing video code or footage into HyperFrames and verify it frame by frame against the original - Remotion first, also Motion Canvas, Lottie, Three.js, p5.js, canvas or plain HTML/CSS animation, or renders from Manim, After Effects or Blender. Use to port, convert, migrate or reuse work made with another tool. From github.com/heygen-com/hyperframes (Apache 2.0)."
+category: "Work and knowledge"
+include_in_prompt: true

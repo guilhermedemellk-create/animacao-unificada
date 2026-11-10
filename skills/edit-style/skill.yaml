@@ -1,0 +1,5 @@
+name: "edit-style"
+title: "edit-style"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Turn a raw talking-head take into a dynamically edited 1080x1920 reel: full-face, full-graphic and split layouts that switch every 2 to 5 seconds, real UI and official-logo panels, captions on every word timed by Whisper, voice plus synthesised SFX (no music bed) mastered to -14 LUFS, and hard QA gates (caption sync on the final render, A/V length, loudness, colour, framing, contact sheet, claims). Also covers writing the script so it does not read as AI. Use when asked to 'edit this reel', 'make it look edited', 'add captions / dynamic layout / graphics', or 'write a reel script'."
+category: "Work and knowledge"
+include_in_prompt: true

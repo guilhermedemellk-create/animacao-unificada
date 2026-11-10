@@ -1,0 +1,5 @@
+name: "new-video"
+title: "new-video"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. This skill should be used when the user runs /new-video or asks to \"start a new 2D video\", \"set up a video from this voiceover\", \"timestamp my voiceover\", \"transcribe and time my narration\", \"import my SRT/timestamped script\", or \"plan the shots for my script\" in the aiTrends 2D Studio. It covers intake, installing or checking the studio, creating the project, building word-level timestamps (Whisper or the user's timestamped script), and the story breakdown with the shot list."
+category: "Work and knowledge"
+include_in_prompt: true

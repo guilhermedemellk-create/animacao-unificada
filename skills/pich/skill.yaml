@@ -1,0 +1,5 @@
+name: "pich"
+title: "pich"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Turn a raw talking-head video into a finished vertical Reel/Short/TikTok. Use when the user types /pich <video>, gives you camera footage and wants a finished video, or asks to add captions, cuts, a hook, cards, B-roll or a motion segment to a talking-head clip. One command makes a complete, checked video (speech-safe cuts, verified captions, hook, cards/icons, music, loudness) and automatic QA (face overlap, captions vs speech, music masking, sync, loudness)."
+category: "Work and knowledge"
+include_in_prompt: true

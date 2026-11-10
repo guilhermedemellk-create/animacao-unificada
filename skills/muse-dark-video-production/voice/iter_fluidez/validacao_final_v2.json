@@ -1,0 +1,23 @@
+{
+ "1": {
+  "asr": "Naquela casa, ninguém atendia depois da meia-noite.",
+  "exata": true,
+  "proibidas": [],
+  "f0": 128.6,
+  "dur": 4.4
+ },
+ "2": {
+  "asr": "Ele ouviu passos no corredor. Mas não havia ninguém lá.",
+  "exata": true,
+  "proibidas": [],
+  "f0": 112.0,
+  "dur": 4.17
+ },
+ "3": {
+  "asr": "Você também escutou esse barulho no escuro?",
+  "exata": true,
+  "proibidas": [],
+  "f0": 136.7,
+  "dur": 3.0
+ }
+}

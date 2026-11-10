@@ -1,0 +1,5 @@
+name: "longform-edit"
+title: "longform-edit"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Edits a raw long-form YouTube recording (screen recording export, camera file, or either plus a separate mic) into a publish-ready video automatically, like Descript on autopilot: transcribes with word timestamps, removes retakes and keeps the last take, tightens dead space while keeping silent on-screen action (speeding up long waits), masters the voice to -14 LUFS / -1.5 dBTP with no music bed, re-transcribes the FINAL render for an every-word SRT (optional burned-in captions), drafts chapters, titles and a description, and fails loudly on QA gates (words, A/V sync, caption sync per chapter, caption coverage, loudness) plus contact sheets you look at. Use when someone says edit this long-form, clean up my recording, cut the retakes and dead spac..."
+category: "Work and knowledge"
+include_in_prompt: true

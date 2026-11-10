@@ -1,0 +1,124 @@
+{
+ "1": {
+  "candidatos": [
+   {
+    "tent": 3,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase1_tent3.wav",
+    "asr": "Naquela casa, ninguém atendia depois da meia-noite?",
+    "exata": true,
+    "proibidas": [],
+    "f0": 126.4,
+    "dur": 10.22
+   },
+   {
+    "tent": 1,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase1_tent1.wav",
+    "asr": "Naquela casa, ninguém atendia depois da meia-noite.",
+    "exata": true,
+    "proibidas": [],
+    "f0": 129.4,
+    "dur": 4.57
+   },
+   {
+    "tent": 2,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase1_tent2.wav",
+    "asr": "Naquela casa, ninguém atendia depois da meia-noite. Ponto.",
+    "exata": false,
+    "proibidas": [
+     "ponto"
+    ],
+    "f0": 126.4,
+    "dur": 5.59
+   }
+  ],
+  "escolhido": {
+   "tent": 3,
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase1_tent3.wav",
+   "asr": "Naquela casa, ninguém atendia depois da meia-noite?",
+   "exata": true,
+   "proibidas": [],
+   "f0": 126.4,
+   "dur": 10.22
+  }
+ },
+ "2": {
+  "candidatos": [
+   {
+    "tent": 3,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase2_tent3.wav",
+    "asr": "Ele ouviu passos no corredor. Mas não havia ninguém lá.",
+    "exata": true,
+    "proibidas": [],
+    "f0": 112.0,
+    "dur": 4.17
+   },
+   {
+    "tent": 2,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase2_tent2.wav",
+    "asr": "Ele ouviu passos no corredor, mas não havia ninguém lá.",
+    "exata": true,
+    "proibidas": [],
+    "f0": 143.1,
+    "dur": 4.72
+   },
+   {
+    "tent": 1,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase2_tent1.wav",
+    "asr": "Ele ouviu o passo no corredor, mas não havia ninguém lá.",
+    "exata": false,
+    "proibidas": [],
+    "f0": 126.4,
+    "dur": 6.22
+   }
+  ],
+  "escolhido": {
+   "tent": 3,
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase2_tent3.wav",
+   "asr": "Ele ouviu passos no corredor. Mas não havia ninguém lá.",
+   "exata": true,
+   "proibidas": [],
+   "f0": 112.0,
+   "dur": 4.17
+  }
+ },
+ "3": {
+  "candidatos": [
+   {
+    "tent": 2,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase3_tent2.wav",
+    "asr": "Você também escutou esse barulho no escuro?",
+    "exata": true,
+    "proibidas": [],
+    "f0": 142.7,
+    "dur": 2.2
+   },
+   {
+    "tent": 1,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase3_tent1.wav",
+    "asr": "Você também escutou esse barulho no escuro?",
+    "exata": true,
+    "proibidas": [],
+    "f0": 139.9,
+    "dur": 5.76
+   },
+   {
+    "tent": 3,
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase3_tent3.wav",
+    "asr": "Você também escutou esse barulho no escuro?",
+    "exata": true,
+    "proibidas": [],
+    "f0": 134.7,
+    "dur": 2.2
+   }
+  ],
+  "escolhido": {
+   "tent": 2,
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_fluidez/tentativas/frase3_tent2.wav",
+   "asr": "Você também escutou esse barulho no escuro?",
+   "exata": true,
+   "proibidas": [],
+   "f0": 142.7,
+   "dur": 2.2
+  }
+ }
+}

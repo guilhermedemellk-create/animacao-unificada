@@ -1,0 +1,902 @@
+{
+ "n5": {
+  "itens": [
+   {
+    "rotulo": "n5_A",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n5_A.wav",
+    "asr": "Então, o amigo revelou algo impossível.  Aquela figura não aparecia nas fotografias dele.  Aparecia apenas nas fotografias de quem estava prestes a desaparecer.",
+    "palavras": [
+     {
+      "w": "Então,",
+      "ini": 0.0,
+      "fim": 0.52
+     },
+     {
+      "w": "o",
+      "ini": 0.88,
+      "fim": 1.08
+     },
+     {
+      "w": "amigo",
+      "ini": 1.08,
+      "fim": 1.42
+     },
+     {
+      "w": "revelou",
+      "ini": 1.42,
+      "fim": 2.04
+     },
+     {
+      "w": "algo",
+      "ini": 2.04,
+      "fim": 2.3
+     },
+     {
+      "w": "impossível.",
+      "ini": 2.3,
+      "fim": 3.08
+     },
+     {
+      "w": "Aquela",
+      "ini": 3.42,
+      "fim": 3.88
+     },
+     {
+      "w": "figura",
+      "ini": 3.88,
+      "fim": 4.3
+     },
+     {
+      "w": "não",
+      "ini": 4.3,
+      "fim": 4.56
+     },
+     {
+      "w": "aparecia",
+      "ini": 4.56,
+      "fim": 5.18
+     },
+     {
+      "w": "nas",
+      "ini": 5.18,
+      "fim": 5.32
+     },
+     {
+      "w": "fotografias",
+      "ini": 5.32,
+      "fim": 6.18
+     },
+     {
+      "w": "dele.",
+      "ini": 6.18,
+      "fim": 6.46
+     },
+     {
+      "w": "Aparecia",
+      "ini": 7.04,
+      "fim": 7.72
+     },
+     {
+      "w": "apenas",
+      "ini": 7.72,
+      "fim": 8.0
+     },
+     {
+      "w": "nas",
+      "ini": 8.0,
+      "fim": 8.22
+     },
+     {
+      "w": "fotografias",
+      "ini": 8.22,
+      "fim": 9.0
+     },
+     {
+      "w": "de",
+      "ini": 9.0,
+      "fim": 9.08
+     },
+     {
+      "w": "quem",
+      "ini": 9.08,
+      "fim": 9.22
+     },
+     {
+      "w": "estava",
+      "ini": 9.22,
+      "fim": 9.5
+     },
+     {
+      "w": "prestes",
+      "ini": 9.5,
+      "fim": 10.22
+     },
+     {
+      "w": "a",
+      "ini": 10.22,
+      "fim": 10.3
+     },
+     {
+      "w": "desaparecer.",
+      "ini": 10.3,
+      "fim": 11.1
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 11.226,
+    "sil_por_s": 5.17,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.812,
+    "f0": 130.9
+   },
+   {
+    "rotulo": "n5_B",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n5_B.wav",
+    "asr": "Então, um amigo revelou algo impossível.  Aquela figura não aparecia nas fotografias dele.  Aparecia apenas nas fotografias de quem estava prestes a desaparecer.",
+    "palavras": [
+     {
+      "w": "Então,",
+      "ini": 0.0,
+      "fim": 0.64
+     },
+     {
+      "w": "um",
+      "ini": 0.8,
+      "fim": 0.92
+     },
+     {
+      "w": "amigo",
+      "ini": 0.92,
+      "fim": 1.26
+     },
+     {
+      "w": "revelou",
+      "ini": 1.26,
+      "fim": 1.84
+     },
+     {
+      "w": "algo",
+      "ini": 1.84,
+      "fim": 2.06
+     },
+     {
+      "w": "impossível.",
+      "ini": 2.06,
+      "fim": 2.86
+     },
+     {
+      "w": "Aquela",
+      "ini": 3.72,
+      "fim": 4.18
+     },
+     {
+      "w": "figura",
+      "ini": 4.18,
+      "fim": 4.58
+     },
+     {
+      "w": "não",
+      "ini": 4.58,
+      "fim": 4.8
+     },
+     {
+      "w": "aparecia",
+      "ini": 4.8,
+      "fim": 5.4
+     },
+     {
+      "w": "nas",
+      "ini": 5.4,
+      "fim": 5.56
+     },
+     {
+      "w": "fotografias",
+      "ini": 5.56,
+      "fim": 6.36
+     },
+     {
+      "w": "dele.",
+      "ini": 6.36,
+      "fim": 6.66
+     },
+     {
+      "w": "Aparecia",
+      "ini": 7.42,
+      "fim": 8.14
+     },
+     {
+      "w": "apenas",
+      "ini": 8.14,
+      "fim": 8.52
+     },
+     {
+      "w": "nas",
+      "ini": 8.52,
+      "fim": 8.84
+     },
+     {
+      "w": "fotografias",
+      "ini": 8.84,
+      "fim": 9.82
+     },
+     {
+      "w": "de",
+      "ini": 9.82,
+      "fim": 9.94
+     },
+     {
+      "w": "quem",
+      "ini": 9.94,
+      "fim": 10.1
+     },
+     {
+      "w": "estava",
+      "ini": 10.1,
+      "fim": 10.42
+     },
+     {
+      "w": "prestes",
+      "ini": 10.42,
+      "fim": 11.18
+     },
+     {
+      "w": "a",
+      "ini": 11.18,
+      "fim": 11.3
+     },
+     {
+      "w": "desaparecer.",
+      "ini": 11.3,
+      "fim": 12.28
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": false,
+    "dur": 12.399,
+    "sil_por_s": 4.68,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.7942,
+    "f0": null
+   }
+  ],
+  "janela_util": 12.55,
+  "escolhido": {
+   "rotulo": "n5_A",
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n5_A.wav",
+   "asr": "Então, o amigo revelou algo impossível.  Aquela figura não aparecia nas fotografias dele.  Aparecia apenas nas fotografias de quem estava prestes a desaparecer.",
+   "palavras": [
+    {
+     "w": "Então,",
+     "ini": 0.0,
+     "fim": 0.52
+    },
+    {
+     "w": "o",
+     "ini": 0.88,
+     "fim": 1.08
+    },
+    {
+     "w": "amigo",
+     "ini": 1.08,
+     "fim": 1.42
+    },
+    {
+     "w": "revelou",
+     "ini": 1.42,
+     "fim": 2.04
+    },
+    {
+     "w": "algo",
+     "ini": 2.04,
+     "fim": 2.3
+    },
+    {
+     "w": "impossível.",
+     "ini": 2.3,
+     "fim": 3.08
+    },
+    {
+     "w": "Aquela",
+     "ini": 3.42,
+     "fim": 3.88
+    },
+    {
+     "w": "figura",
+     "ini": 3.88,
+     "fim": 4.3
+    },
+    {
+     "w": "não",
+     "ini": 4.3,
+     "fim": 4.56
+    },
+    {
+     "w": "aparecia",
+     "ini": 4.56,
+     "fim": 5.18
+    },
+    {
+     "w": "nas",
+     "ini": 5.18,
+     "fim": 5.32
+    },
+    {
+     "w": "fotografias",
+     "ini": 5.32,
+     "fim": 6.18
+    },
+    {
+     "w": "dele.",
+     "ini": 6.18,
+     "fim": 6.46
+    },
+    {
+     "w": "Aparecia",
+     "ini": 7.04,
+     "fim": 7.72
+    },
+    {
+     "w": "apenas",
+     "ini": 7.72,
+     "fim": 8.0
+    },
+    {
+     "w": "nas",
+     "ini": 8.0,
+     "fim": 8.22
+    },
+    {
+     "w": "fotografias",
+     "ini": 8.22,
+     "fim": 9.0
+    },
+    {
+     "w": "de",
+     "ini": 9.0,
+     "fim": 9.08
+    },
+    {
+     "w": "quem",
+     "ini": 9.08,
+     "fim": 9.22
+    },
+    {
+     "w": "estava",
+     "ini": 9.22,
+     "fim": 9.5
+    },
+    {
+     "w": "prestes",
+     "ini": 9.5,
+     "fim": 10.22
+    },
+    {
+     "w": "a",
+     "ini": 10.22,
+     "fim": 10.3
+    },
+    {
+     "w": "desaparecer.",
+     "ini": 10.3,
+     "fim": 11.1
+    }
+   ],
+   "tokens_pontuacao": [],
+   "portao_palavra": true,
+   "portao_texto": true,
+   "dur": 11.226,
+   "sil_por_s": 5.17,
+   "atempo_necessario": 1.0,
+   "embedding_cos": 0.812,
+   "f0": 130.9
+  }
+ },
+ "n6": {
+  "itens": [
+   {
+    "rotulo": "n6_A",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n6_A.wav",
+    "asr": "O homem correu para olhar a última fotografia, mas agora havia algo diferente.",
+    "palavras": [
+     {
+      "w": "O",
+      "ini": 0.0,
+      "fim": 0.12
+     },
+     {
+      "w": "homem",
+      "ini": 0.12,
+      "fim": 0.3
+     },
+     {
+      "w": "correu",
+      "ini": 0.3,
+      "fim": 0.8
+     },
+     {
+      "w": "para",
+      "ini": 0.8,
+      "fim": 0.98
+     },
+     {
+      "w": "olhar",
+      "ini": 0.98,
+      "fim": 1.26
+     },
+     {
+      "w": "a",
+      "ini": 1.26,
+      "fim": 1.4
+     },
+     {
+      "w": "última",
+      "ini": 1.4,
+      "fim": 1.66
+     },
+     {
+      "w": "fotografia,",
+      "ini": 1.66,
+      "fim": 2.52
+     },
+     {
+      "w": "mas",
+      "ini": 2.8,
+      "fim": 3.46
+     },
+     {
+      "w": "agora",
+      "ini": 3.46,
+      "fim": 3.9
+     },
+     {
+      "w": "havia",
+      "ini": 3.9,
+      "fim": 4.6
+     },
+     {
+      "w": "algo",
+      "ini": 4.6,
+      "fim": 5.02
+     },
+     {
+      "w": "diferente.",
+      "ini": 5.02,
+      "fim": 5.44
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 7.795,
+    "sil_por_s": 3.72,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.7941,
+    "f0": null
+   },
+   {
+    "rotulo": "n6_B",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n6_B.wav",
+    "asr": "O homem correu para olhar a última fotografia, mas agora havia algo diferente.",
+    "palavras": [
+     {
+      "w": "O",
+      "ini": 0.0,
+      "fim": 0.52
+     },
+     {
+      "w": "homem",
+      "ini": 0.52,
+      "fim": 0.72
+     },
+     {
+      "w": "correu",
+      "ini": 0.72,
+      "fim": 1.26
+     },
+     {
+      "w": "para",
+      "ini": 1.26,
+      "fim": 1.46
+     },
+     {
+      "w": "olhar",
+      "ini": 1.46,
+      "fim": 1.76
+     },
+     {
+      "w": "a",
+      "ini": 1.76,
+      "fim": 1.92
+     },
+     {
+      "w": "última",
+      "ini": 1.92,
+      "fim": 2.24
+     },
+     {
+      "w": "fotografia,",
+      "ini": 2.24,
+      "fim": 3.2
+     },
+     {
+      "w": "mas",
+      "ini": 3.4,
+      "fim": 4.2
+     },
+     {
+      "w": "agora",
+      "ini": 4.2,
+      "fim": 4.54
+     },
+     {
+      "w": "havia",
+      "ini": 4.54,
+      "fim": 4.82
+     },
+     {
+      "w": "algo",
+      "ini": 4.82,
+      "fim": 5.12
+     },
+     {
+      "w": "diferente.",
+      "ini": 5.12,
+      "fim": 5.4
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 5.726,
+    "sil_por_s": 5.06,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.8197,
+    "f0": 133.9
+   }
+  ],
+  "janela_util": 10.6,
+  "escolhido": {
+   "rotulo": "n6_B",
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n6_B.wav",
+   "asr": "O homem correu para olhar a última fotografia, mas agora havia algo diferente.",
+   "palavras": [
+    {
+     "w": "O",
+     "ini": 0.0,
+     "fim": 0.52
+    },
+    {
+     "w": "homem",
+     "ini": 0.52,
+     "fim": 0.72
+    },
+    {
+     "w": "correu",
+     "ini": 0.72,
+     "fim": 1.26
+    },
+    {
+     "w": "para",
+     "ini": 1.26,
+     "fim": 1.46
+    },
+    {
+     "w": "olhar",
+     "ini": 1.46,
+     "fim": 1.76
+    },
+    {
+     "w": "a",
+     "ini": 1.76,
+     "fim": 1.92
+    },
+    {
+     "w": "última",
+     "ini": 1.92,
+     "fim": 2.24
+    },
+    {
+     "w": "fotografia,",
+     "ini": 2.24,
+     "fim": 3.2
+    },
+    {
+     "w": "mas",
+     "ini": 3.4,
+     "fim": 4.2
+    },
+    {
+     "w": "agora",
+     "ini": 4.2,
+     "fim": 4.54
+    },
+    {
+     "w": "havia",
+     "ini": 4.54,
+     "fim": 4.82
+    },
+    {
+     "w": "algo",
+     "ini": 4.82,
+     "fim": 5.12
+    },
+    {
+     "w": "diferente.",
+     "ini": 5.12,
+     "fim": 5.4
+    }
+   ],
+   "tokens_pontuacao": [],
+   "portao_palavra": true,
+   "portao_texto": true,
+   "dur": 5.726,
+   "sil_por_s": 5.06,
+   "atempo_necessario": 1.0,
+   "embedding_cos": 0.8197,
+   "f0": 133.9
+  }
+ },
+ "n7": {
+  "itens": [
+   {
+    "rotulo": "n7_A",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n7_A.wav",
+    "asr": "E quando levantou os olhos.  Viu a mesma figura parada bem na sua frente.",
+    "palavras": [
+     {
+      "w": "E",
+      "ini": 0.0,
+      "fim": 0.26
+     },
+     {
+      "w": "quando",
+      "ini": 0.26,
+      "fim": 0.48
+     },
+     {
+      "w": "levantou",
+      "ini": 0.48,
+      "fim": 1.04
+     },
+     {
+      "w": "os",
+      "ini": 1.04,
+      "fim": 1.22
+     },
+     {
+      "w": "olhos.",
+      "ini": 1.22,
+      "fim": 1.48
+     },
+     {
+      "w": "Viu",
+      "ini": 3.02,
+      "fim": 3.5
+     },
+     {
+      "w": "a",
+      "ini": 3.5,
+      "fim": 3.6
+     },
+     {
+      "w": "mesma",
+      "ini": 3.6,
+      "fim": 3.78
+     },
+     {
+      "w": "figura",
+      "ini": 3.78,
+      "fim": 4.22
+     },
+     {
+      "w": "parada",
+      "ini": 4.22,
+      "fim": 4.72
+     },
+     {
+      "w": "bem",
+      "ini": 4.72,
+      "fim": 4.92
+     },
+     {
+      "w": "na",
+      "ini": 4.92,
+      "fim": 5.02
+     },
+     {
+      "w": "sua",
+      "ini": 5.02,
+      "fim": 5.16
+     },
+     {
+      "w": "frente.",
+      "ini": 5.16,
+      "fim": 5.48
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 5.649,
+    "sil_por_s": 4.25,
+    "atempo_necessario": 1.018,
+    "embedding_cos": 0.8263,
+    "f0": 125.0
+   },
+   {
+    "rotulo": "n7_B",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n7_B.wav",
+    "asr": "e quando levantou os olhos.  Viu a mesma figura parada bem na sua frente.",
+    "palavras": [
+     {
+      "w": "e",
+      "ini": 0.0,
+      "fim": 0.12
+     },
+     {
+      "w": "quando",
+      "ini": 0.12,
+      "fim": 0.34
+     },
+     {
+      "w": "levantou",
+      "ini": 0.34,
+      "fim": 0.98
+     },
+     {
+      "w": "os",
+      "ini": 0.98,
+      "fim": 1.14
+     },
+     {
+      "w": "olhos.",
+      "ini": 1.14,
+      "fim": 1.38
+     },
+     {
+      "w": "Viu",
+      "ini": 2.44,
+      "fim": 2.98
+     },
+     {
+      "w": "a",
+      "ini": 2.98,
+      "fim": 3.06
+     },
+     {
+      "w": "mesma",
+      "ini": 3.06,
+      "fim": 3.36
+     },
+     {
+      "w": "figura",
+      "ini": 3.36,
+      "fim": 3.8
+     },
+     {
+      "w": "parada",
+      "ini": 3.8,
+      "fim": 4.44
+     },
+     {
+      "w": "bem",
+      "ini": 4.44,
+      "fim": 4.98
+     },
+     {
+      "w": "na",
+      "ini": 4.98,
+      "fim": 5.18
+     },
+     {
+      "w": "sua",
+      "ini": 5.18,
+      "fim": 5.32
+     },
+     {
+      "w": "frente.",
+      "ini": 5.32,
+      "fim": 5.7
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 5.905,
+    "sil_por_s": 4.06,
+    "atempo_necessario": 1.064,
+    "embedding_cos": 0.8025,
+    "f0": null
+   }
+  ],
+  "janela_util": 5.55,
+  "escolhido": {
+   "rotulo": "n7_A",
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n7_A.wav",
+   "asr": "E quando levantou os olhos.  Viu a mesma figura parada bem na sua frente.",
+   "palavras": [
+    {
+     "w": "E",
+     "ini": 0.0,
+     "fim": 0.26
+    },
+    {
+     "w": "quando",
+     "ini": 0.26,
+     "fim": 0.48
+    },
+    {
+     "w": "levantou",
+     "ini": 0.48,
+     "fim": 1.04
+    },
+    {
+     "w": "os",
+     "ini": 1.04,
+     "fim": 1.22
+    },
+    {
+     "w": "olhos.",
+     "ini": 1.22,
+     "fim": 1.48
+    },
+    {
+     "w": "Viu",
+     "ini": 3.02,
+     "fim": 3.5
+    },
+    {
+     "w": "a",
+     "ini": 3.5,
+     "fim": 3.6
+    },
+    {
+     "w": "mesma",
+     "ini": 3.6,
+     "fim": 3.78
+    },
+    {
+     "w": "figura",
+     "ini": 3.78,
+     "fim": 4.22
+    },
+    {
+     "w": "parada",
+     "ini": 4.22,
+     "fim": 4.72
+    },
+    {
+     "w": "bem",
+     "ini": 4.72,
+     "fim": 4.92
+    },
+    {
+     "w": "na",
+     "ini": 4.92,
+     "fim": 5.02
+    },
+    {
+     "w": "sua",
+     "ini": 5.02,
+     "fim": 5.16
+    },
+    {
+     "w": "frente.",
+     "ini": 5.16,
+     "fim": 5.48
+    }
+   ],
+   "tokens_pontuacao": [],
+   "portao_palavra": true,
+   "portao_texto": true,
+   "dur": 5.649,
+   "sil_por_s": 4.25,
+   "atempo_necessario": 1.018,
+   "embedding_cos": 0.8263,
+   "f0": 125.0
+  }
+ }
+}

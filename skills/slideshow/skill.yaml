@@ -1,0 +1,5 @@
+name: "slideshow"
+title: "slideshow"
+description: "Build a HyperFrames slideshow to present live - slides, fragment reveals, branching hotspots and presenter mode with speaker notes, served by `hyperframes present` - or turn an existing page into one. Use when the person wants a deck or presentation rather than a rendered video. From github.com/heygen-com/hyperframes (Apache 2.0)."
+category: "Work and knowledge"
+include_in_prompt: true

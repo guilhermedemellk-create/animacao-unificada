@@ -1,0 +1,5 @@
+name: "video-edit"
+title: "video-edit"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Edit talking-head, tutorial, explainer and Short videos with Claude Code. Word-accurate cuts from raw takes, motion graphics built as HTML + GSAP (optionally three.js) pages locked to the spoken words, sound effects synthesized in Python, honest loudness handling and frame-exact rendering. On first use it asks for the creator's name, colours, logo and preferences and remembers them for every later video. Use when the user wants to cut raw footage, remove retakes and pauses, add animated cards or chapters, add or design sound effects, fix loudness, or render a final edit."
+category: "Work and knowledge"
+include_in_prompt: true

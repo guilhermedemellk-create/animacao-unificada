@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1280, height=640" />
+    <title>pich — hero</title>
+    <!-- README hero / GitHub social preview (1280x640). Background: assets/hero_bg.png (text-free, generated with
+         Codex image_gen, prompt in docs/hero-src/PROMPT.md). Typography and logo are added here so they stay crisp.
+         Render: npx hyperframes render --output /tmp/hero.mp4 && ffmpeg -i /tmp/hero.mp4 -frames:v 1 ../hero.png -->
+    <style>
+      @font-face { font-family: "Manrope"; src: url("assets/Manrope.ttf") format("truetype"); font-weight: 200 800; }
+      @font-face { font-family: "JetBrains Mono"; src: url("assets/JetBrainsMono-600.woff2") format("woff2"); font-weight: 600; }
+      :root { --ink: #fff; --muted: #b7c6dc; --yellow: #ffd64d; --line: rgba(120, 214, 255, 0.28); }
+      * { box-sizing: border-box; }
+      body { margin: 0; font-family: "Manrope", sans-serif; color: var(--ink); background: #0e1424; }
+      #root { position: relative; width: 1280px; height: 640px; overflow: hidden; background: #0e1424; }
+      .clip { position: absolute; inset: 0; }
+      #bg { position: absolute; inset: 0; width: 1280px; height: 640px; object-fit: cover; object-position: center; }
+      /* soft left scrim so the title stays readable on any background */
+      #scrim { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(20, 10, 70, 0.62) 0%, rgba(20, 10, 70, 0.35) 40%, rgba(20, 10, 70, 0) 60%); }
+      #lockup { position: absolute; left: 70px; top: 78px; height: 84px; filter: drop-shadow(0 16px 28px rgba(20, 8, 70, 0.45)); }
+      #head { position: absolute; left: 72px; top: 206px; font-size: 53px; font-weight: 800; line-height: 1.08; letter-spacing: -0.02em; }
+      #head span { color: var(--yellow); }
+      #sub { position: absolute; left: 74px; top: 348px; width: 520px; font-size: 23px; font-weight: 600; line-height: 1.4; color: #e3e6ff; }
+      #cmd { position: absolute; left: 72px; top: 452px; display: flex; align-items: center; gap: 14px; padding: 16px 24px;
+             border-radius: 18px; background: rgba(12, 10, 40, 0.78); border: 2px solid rgba(255, 255, 255, 0.16);
+             font-family: "JetBrains Mono", monospace; font-size: 26px; font-weight: 600; color: #fff; }
+      #cmd .pr { color: var(--yellow); }
+      #cmd .arg { color: #b9c2ff; }
+      #meta { position: absolute; left: 76px; top: 546px; font-size: 17px; font-weight: 700; color: #c9ceff; letter-spacing: 0.02em; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-width="1280" data-height="640" data-duration="1">
+      <section id="hero" class="clip" data-start="0" data-duration="1" data-track-index="0">
+        <img id="bg" src="assets/hero_bg.png" alt="" />
+        <div id="scrim"></div>
+        <img id="lockup" src="assets/lockup-on-dark.png" alt="" />
+        <div id="head">Drop a raw video.<br /><span>Get a finished Reel.</span></div>
+        <div id="sub">Cuts, captions, cards and music, checked automatically before you post.</div>
+        <div id="cmd"><span class="pr">›</span>/pich <span class="arg">take3.mov</span></div>
+        <div id="meta">A skill for Claude Code &amp; AI agents · MIT</div>
+      </section>
+    </div>
+    <script>
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = { duration: () => 1, seek: () => {}, pause: () => {}, time: () => 0, totalDuration: () => 1, progress: () => 0, play: () => {}, paused: () => true };
+    </script>
+  </body>
+</html>

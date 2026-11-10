@@ -1,0 +1,39 @@
+/home/hatch/workspace/video_project/producao_volta10s_v3/audio_clone/venv_clone/lib/python3.12/site-packages/resemblyzer/voice_encoder.py:43: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(weights_fpath, map_location="cpu")
+ref: cosseno interno dos trechos originais: media=0.913 min=0.845
+Device set to use cpu
+`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.
+frase1 v2_atual: portao=True emb=0.7523 f0=128.6 dur=4.40 sil/s=3.64 :: Naquela casa, ninguém atendia depois da meia-noite.
+frase1 v1: portao=True emb=0.7461 f0=123.5 dur=4.41 sil/s=3.63 :: Naquela casa. Ninguém atendia depois da meia-noite.
+frase1 frase1_c1: portao=True emb=0.7502 f0=123.9 dur=3.61 sil/s=4.44 :: Naquela casa, ninguém atendia depois da meia noite.
+frase1 frase1_c2: portao=False emb=0.7292 f0=111.3 dur=4.20 sil/s=3.81 :: Aquela casa, ninguém atendia depois da meia noite.
+frase1 frase1_c3: portao=True emb=0.7604 f0=109.7 dur=3.31 sil/s=4.84 :: Naquela casa, ninguém atendia depois da meia noite.
+frase1 frase1_c4: portao=False emb=0.7649 f0=99.5 dur=7.13 sil/s=2.25 :: Aquela casa ninguém atendia depois da meia noite.
+frase1 frase1_c5: portao=True emb=0.7012 f0=120.3 dur=3.90 sil/s=4.1 :: Naquela casa, ninguém atendia depois da meia noite.
+frase1 frase1_c6: portao=True emb=0.7635 f0=110.7 dur=5.53 sil/s=2.9 :: Naquela casa, ninguém atendia depois da meia-noite.
+frase1 frase1_c7: portao=False emb=0.7551 f0=126.4 dur=5.97 sil/s=2.68 :: Naquela casa, ninguém atendia depois da meia-noite ponto.
+frase1 frase1_c8: portao=False emb=0.7843 f0=115.6 dur=3.24 sil/s=4.93 :: Naquela casa, ninguém entendia depois da meia noite e ponto.
+-> frase1: VENCEDOR frase1_c6 (emb 0.7635 vs v2 0.7523) -> /home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase1_v3.wav
+frase2 v2_atual: portao=True emb=0.7642 f0=112.0 dur=4.17 sil/s=4.08 :: Ele ouviu passos no corredor. Mas não havia ninguém lá.
+frase2 v1: portao=True emb=0.7277 f0=120.0 dur=5.42 sil/s=3.14 :: Ele ouviu passos no corredor, mas não havia ninguém lá.
+frase2 frase2_c1: portao=False emb=0.7787 f0=106.3 dur=8.16 sil/s=2.08 :: Ele ouviu passos no corredor. Mas não havia ninguém.
+frase2 frase2_c2: portao=True emb=0.7087 f0=126.4 dur=4.04 sil/s=4.21 :: Ele ouviu passos no corredor. Mas não havia ninguém lá.
+frase2 frase2_c3: portao=True emb=0.7918 f0=125.7 dur=6.37 sil/s=2.67 :: Ele ouviu passos no corredor, mas não havia ninguém lá.
+frase2 frase2_c4: portao=False emb=0.7735 f0=122.8 dur=4.45 sil/s=3.82 :: Ele lhe ouviu passos no corredor, mas não havia ninguém lá.
+frase2 frase2_c5: portao=True emb=0.7795 f0=121.4 dur=4.64 sil/s=3.66 :: Ele ouviu passos no corredor, mas não havia ninguém lá.
+frase2 frase2_c6: portao=True emb=0.7099 f0=132.4 dur=4.66 sil/s=3.65 :: Ele ouviu passos no corredor, mas não havia ninguém lá.
+frase2 frase2_c7: portao=False emb=0.7572 f0=131.6 dur=5.53 sil/s=3.07 :: Ele ouviu passos no corredor. Mas não havia ninguém lá, ponto!
+frase2 frase2_c8: portao=True emb=0.7192 f0=127.1 dur=3.55 sil/s=4.79 :: Ele ouviu passos no corredor, mas não havia ninguém lá.
+-> frase2: VENCEDOR frase2_c3 (emb 0.7918 vs v2 0.7642) -> /home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase2_v3.wav
+frase3 v2_atual: portao=True emb=0.7880 f0=136.7 dur=3.00 sil/s=5.33 :: Você também escutou esse barulho no escuro?
+frase3 v1: portao=True emb=0.7952 f0=151.2 dur=9.18 sil/s=1.74 :: Você também escutou esse barulho no escuro?
+frase3 frase3_c1: portao=True emb=0.7767 f0=163.0 dur=2.37 sil/s=6.76 :: Você também escutou esse barulho no escuro?
+frase3 frase3_c2: portao=True emb=0.8068 f0=114.3 dur=5.82 sil/s=2.75 :: Você também escutou esse barulho no escuro?
+frase3 frase3_c3: portao=True emb=0.7943 f0=140.3 dur=2.39 sil/s=6.7 :: Você também escutou esse barulho no escuro?
+frase3 frase3_c4: portao=True emb=0.7866 f0=147.7 dur=2.35 sil/s=6.82 :: Você também escutou esse barulho no escuro?
+frase3 frase3_c5: portao=True emb=0.7444 f0=130.9 dur=2.28 sil/s=7.01 :: Você também escutou esse barulho no escuro?
+frase3 frase3_c6: portao=True emb=0.7676 f0=117.3 dur=2.94 sil/s=5.43 :: Você também escutou esse barulho no escuro.
+frase3 frase3_c7: portao=True emb=0.7808 f0=126.4 dur=3.29 sil/s=4.87 :: Você também escutou esse barulho no escuro?
+frase3 frase3_c8: portao=False emb=0.7031 f0=130.9 dur=1.94 sil/s=8.24 :: Você também escutou esse barulho escuro?
+-> frase3: VENCEDOR frase3_c2 (emb 0.8068 vs v2 0.788) -> /home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase3_v3.wav
+AVALIACAO_V3_DONE

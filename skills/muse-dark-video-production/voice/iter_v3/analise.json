@@ -1,0 +1,351 @@
+{
+ "f0_global_limpos": {
+  "mediana": 123.5,
+  "media": 116.2,
+  "desvio": 38.1,
+  "p10": 60.0,
+  "p90": 156.3,
+  "min": 60.0,
+  "max": 261.7,
+  "n_quadros": 1284
+ },
+ "contorno_medio_10bins_hz": [
+  124.6,
+  127.9,
+  123.3,
+  117.8,
+  113.2,
+  124.2,
+  130.3,
+  113.1,
+  123.5,
+  113.0
+ ],
+ "ritmo_trechos": [
+  {
+   "trecho": "trecho_01_0.0s.wav",
+   "dur": 3.38,
+   "silabas": 25,
+   "sil_por_s_total": 7.4
+  },
+  {
+   "trecho": "trecho_02_9.5s.wav",
+   "dur": 1.56,
+   "silabas": 12,
+   "sil_por_s_total": 7.69
+  },
+  {
+   "trecho": "trecho_03_11.8s.wav",
+   "dur": 2.91,
+   "silabas": 15,
+   "sil_por_s_total": 5.15
+  },
+  {
+   "trecho": "trecho_04_18.2s.wav",
+   "dur": 1.98,
+   "silabas": 11,
+   "sil_por_s_total": 5.56
+  },
+  {
+   "trecho": "trecho_05_20.8s.wav",
+   "dur": 1.42,
+   "silabas": 7,
+   "sil_por_s_total": 4.93
+  },
+  {
+   "trecho": "trecho_06_22.6s.wav",
+   "dur": 7.23,
+   "silabas": 35,
+   "sil_por_s_total": 4.84
+  },
+  {
+   "trecho": "trecho_07_30.2s.wav",
+   "dur": 6.97,
+   "silabas": 32,
+   "sil_por_s_total": 4.59
+  },
+  {
+   "trecho": "trecho_08_41.2s.wav",
+   "dur": 1.34,
+   "silabas": 8,
+   "sil_por_s_total": 5.97
+  },
+  {
+   "trecho": "trecho_09_46.3s.wav",
+   "dur": 1.52,
+   "silabas": 9,
+   "sil_por_s_total": 5.92
+  },
+  {
+   "trecho": "trecho_10_60.0s.wav",
+   "dur": 13.48,
+   "silabas": 66,
+   "sil_por_s_total": 4.9
+  },
+  {
+   "trecho": "trecho_11_75.5s.wav",
+   "dur": 1.6,
+   "silabas": 10,
+   "sil_por_s_total": 6.25
+  },
+  {
+   "trecho": "trecho_12_81.4s.wav",
+   "dur": 7.72,
+   "silabas": 36,
+   "sil_por_s_total": 4.67
+  }
+ ],
+ "sil_por_s_media": 5.66,
+ "pausas_entre_frases_stem_s": [
+  0.79,
+  0.92,
+  0.28,
+  0.7,
+  0.19,
+  0.3,
+  0.75,
+  0.66,
+  0.43,
+  0.45,
+  0.9,
+  0.36,
+  0.17,
+  0.85,
+  0.38,
+  1.13,
+  0.32,
+  0.34,
+  0.55,
+  0.38,
+  0.75,
+  0.94,
+  0.81,
+  0.43
+ ],
+ "pausa_mediana_s": 0.5,
+ "pausa_media_s": 0.57,
+ "n_segmentos_stem": 53,
+ "energia": {
+  "lufs_stem_com_acompanhamento": -25.5,
+  "lufs_voz_limpa": -25.5,
+  "rms_limpa_dbfs": -25.8,
+  "pico_limpa_dbfs": -8.9,
+  "crest_limpa_db": 16.8,
+  "rms_stem_dbfs": -26.1,
+  "pico_stem_dbfs": -8.9
+ },
+ "espectro": {
+  "centroide_mediano_hz": 1263.0,
+  "rolloff85_mediano_hz": 2367.0
+ },
+ "ambiente": {
+  "piso_ruido_db": -49.4,
+  "decaimento_pos_frase_db_por_janela": [
+   -48.8,
+   -48.9,
+   -48.0,
+   -47.1,
+   -46.0,
+   -45.0,
+   -44.4,
+   -43.6
+  ],
+  "janela_ms_aprox": 21
+ },
+ "por_trecho": {
+  "trecho_01_0.0s.wav": {
+   "f0": {
+    "mediana": 178.3,
+    "media": 181.3,
+    "desvio": 18.5,
+    "p10": 157.4,
+    "p90": 206.5,
+    "min": 156.5,
+    "max": 212.6,
+    "n_quadros": 16
+   },
+   "dur": 3.38,
+   "texto_asr": "Se durante as férias você tem o costume de ficar acordado até tarde",
+   "silabas": 25
+  },
+  "trecho_02_9.5s.wav": {
+   "f0": {
+    "mediana": 80.6,
+    "media": 79.9,
+    "desvio": 1.1,
+    "p10": 78.4,
+    "p90": 81.0,
+    "min": 76.9,
+    "max": 81.0,
+    "n_quadros": 19
+   },
+   "dur": 1.56,
+   "texto_asr": "Olhando para a tela do celular.",
+   "silabas": 12
+  },
+  "trecho_03_11.8s.wav": {
+   "f0": {
+    "mediana": 124.2,
+    "media": 125.1,
+    "desvio": 21.3,
+    "p10": 111.8,
+    "p90": 146.2,
+    "min": 60.0,
+    "max": 153.8,
+    "n_quadros": 79
+   },
+   "dur": 2.91,
+   "texto_asr": "Você quebrou o padrão de repouso do celular.",
+   "silabas": 15
+  },
+  "trecho_04_18.2s.wav": {
+   "f0": {
+    "mediana": 122.5,
+    "media": 118.1,
+    "desvio": 13.9,
+    "p10": 91.8,
+    "p90": 130.9,
+    "min": 84.4,
+    "max": 133.1,
+    "n_quadros": 68
+   },
+   "dur": 1.98,
+   "texto_asr": "É um isolamento induzido.",
+   "silabas": 11
+  },
+  "trecho_05_20.8s.wav": {
+   "f0": {
+    "mediana": 102.7,
+    "media": 101.1,
+    "desvio": 7.1,
+    "p10": 98.6,
+    "p90": 106.3,
+    "min": 80.6,
+    "max": 108.2,
+    "n_quadros": 11
+   },
+   "dur": 1.42,
+   "texto_asr": "diante desta situação.",
+   "silabas": 7
+  },
+  "trecho_06_22.6s.wav": {
+   "f0": {
+    "mediana": 137.0,
+    "media": 123.9,
+    "desvio": 53.4,
+    "p10": 60.0,
+    "p90": 193.8,
+    "min": 60.0,
+    "max": 261.7,
+    "n_quadros": 171
+   },
+   "dur": 7.23,
+   "texto_asr": "Siga estas instruções imediatamente. Primeiro, se você sentir que há algo parado ao lado da sua cama,",
+   "silabas": 35
+  },
+  "trecho_07_30.2s.wav": {
+   "f0": {
+    "mediana": 127.9,
+    "media": 118.8,
+    "desvio": 44.3,
+    "p10": 60.0,
+    "p90": 169.9,
+    "min": 60.0,
+    "max": 198.3,
+    "n_quadros": 233
+   },
+   "dur": 6.97,
+   "texto_asr": "ou notar uma sombra se movendo no canto do olho, não vire a cabeça. Não tente focar a visão.",
+   "silabas": 32
+  },
+  "trecho_08_41.2s.wav": {
+   "f0": {
+    "mediana": 120.7,
+    "media": 128.6,
+    "desvio": 23.2,
+    "p10": 107.5,
+    "p90": 173.7,
+    "min": 102.1,
+    "max": 178.8,
+    "n_quadros": 51
+   },
+   "dur": 1.34,
+   "texto_asr": "mas olhar diretamente.",
+   "silabas": 8
+  },
+  "trecho_09_46.3s.wav": {
+   "f0": {
+    "mediana": 135.5,
+    "media": 134.6,
+    "desvio": 3.2,
+    "p10": 130.1,
+    "p90": 137.8,
+    "min": 129.4,
+    "max": 138.6,
+    "n_quadros": 12
+   },
+   "dur": 1.52,
+   "texto_asr": "ela saberá que foi vista.",
+   "silabas": 9
+  },
+  "trecho_10_60.0s.wav": {
+   "f0": {
+    "mediana": 114.6,
+    "media": 107.8,
+    "desvio": 32.7,
+    "p10": 60.0,
+    "p90": 147.7,
+    "min": 60.0,
+    "max": 179.8,
+    "n_quadros": 362
+   },
+   "dur": 13.48,
+   "texto_asr": "Se passar das três horas da manhã, nenhum dos seus familiares está acordado. O som é uma simulação para fazer você sair da segurança do quarto. Caso os passos comecem a vir em direção à sua porta.",
+   "silabas": 66
+  },
+  "trecho_11_75.5s.wav": {
+   "f0": {
+    "mediana": 141.9,
+    "media": 136.7,
+    "desvio": 11.6,
+    "p10": 120.1,
+    "p90": 147.7,
+    "min": 114.6,
+    "max": 149.5,
+    "n_quadros": 22
+   },
+   "dur": 1.6,
+   "texto_asr": "e cubra-se até o pescoço.",
+   "silabas": 10
+  },
+  "trecho_12_81.4s.wav": {
+   "f0": {
+    "mediana": 128.6,
+    "media": 111.4,
+    "desvio": 34.0,
+    "p10": 60.0,
+    "p90": 147.0,
+    "min": 60.0,
+    "max": 166.8,
+    "n_quadros": 240
+   },
+   "dur": 7.72,
+   "texto_asr": "O que está no corredor sabe que há alguém acordado na casa, mas ainda não tem certeza de qual quarto é o seu.",
+   "silabas": 36
+  }
+ },
+ "transcricoes": {
+  "trecho_01_0.0s.wav": "Se durante as férias você tem o costume de ficar acordado até tarde",
+  "trecho_02_9.5s.wav": "Olhando para a tela do celular.",
+  "trecho_03_11.8s.wav": "Você quebrou o padrão de repouso do celular.",
+  "trecho_04_18.2s.wav": "É um isolamento induzido.",
+  "trecho_05_20.8s.wav": "diante desta situação.",
+  "trecho_06_22.6s.wav": "Siga estas instruções imediatamente. Primeiro, se você sentir que há algo parado ao lado da sua cama,",
+  "trecho_07_30.2s.wav": "ou notar uma sombra se movendo no canto do olho, não vire a cabeça. Não tente focar a visão.",
+  "trecho_08_41.2s.wav": "mas olhar diretamente.",
+  "trecho_09_46.3s.wav": "ela saberá que foi vista.",
+  "trecho_10_60.0s.wav": "Se passar das três horas da manhã, nenhum dos seus familiares está acordado. O som é uma simulação para fazer você sair da segurança do quarto. Caso os passos comecem a vir em direção à sua porta.",
+  "trecho_11_75.5s.wav": "e cubra-se até o pescoço.",
+  "trecho_12_81.4s.wav": "O que está no corredor sabe que há alguém acordado na casa, mas ainda não tem certeza de qual quarto é o seu."
+ }
+}

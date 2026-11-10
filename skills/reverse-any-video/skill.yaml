@@ -1,0 +1,5 @@
+name: "reverse-any-video"
+title: "reverse-any-video"
+description: "Rebuild any video file as an editable HyperFrames project - motion graphics, talking heads, live action or AI-generated footage. Measure and watch it, rebuild every layer, then check the render against the original frame by frame. Use to reverse, recreate, replicate or copy a video. From github.com/heygen-com/hyperframes (Apache 2.0)."
+category: "Work and knowledge"
+include_in_prompt: true

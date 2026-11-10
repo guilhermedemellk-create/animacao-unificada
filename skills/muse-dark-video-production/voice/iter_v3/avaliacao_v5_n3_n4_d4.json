@@ -1,0 +1,647 @@
+{
+ "n3": {
+  "itens": [
+   {
+    "rotulo": "n3_A",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n3_A.wav",
+    "asr": "Ele procurou outras fotografias e encontrou a mesma figura em todas elas, sempre mais perto.",
+    "palavras": [
+     {
+      "w": "Ele",
+      "ini": 0.0,
+      "fim": 0.16
+     },
+     {
+      "w": "procurou",
+      "ini": 0.16,
+      "fim": 0.68
+     },
+     {
+      "w": "outras",
+      "ini": 0.68,
+      "fim": 0.94
+     },
+     {
+      "w": "fotografias",
+      "ini": 0.94,
+      "fim": 1.86
+     },
+     {
+      "w": "e",
+      "ini": 1.86,
+      "fim": 2.36
+     },
+     {
+      "w": "encontrou",
+      "ini": 2.36,
+      "fim": 2.94
+     },
+     {
+      "w": "a",
+      "ini": 2.94,
+      "fim": 3.08
+     },
+     {
+      "w": "mesma",
+      "ini": 3.08,
+      "fim": 3.44
+     },
+     {
+      "w": "figura",
+      "ini": 3.44,
+      "fim": 4.06
+     },
+     {
+      "w": "em",
+      "ini": 4.06,
+      "fim": 4.28
+     },
+     {
+      "w": "todas",
+      "ini": 4.28,
+      "fim": 4.58
+     },
+     {
+      "w": "elas,",
+      "ini": 4.58,
+      "fim": 5.12
+     },
+     {
+      "w": "sempre",
+      "ini": 5.46,
+      "fim": 6.12
+     },
+     {
+      "w": "mais",
+      "ini": 6.12,
+      "fim": 6.4
+     },
+     {
+      "w": "perto.",
+      "ini": 6.4,
+      "fim": 6.72
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 7.676,
+    "sil_por_s": 4.04,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.8071,
+    "f0": 136.3
+   },
+   {
+    "rotulo": "n3_B",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n3_B.wav",
+    "asr": "Ele procurou outras fotografias e encontrou a mesma figura em todas elas, sempre mais  pé.",
+    "palavras": [
+     {
+      "w": "Ele",
+      "ini": 0.0,
+      "fim": 0.16
+     },
+     {
+      "w": "procurou",
+      "ini": 0.16,
+      "fim": 0.68
+     },
+     {
+      "w": "outras",
+      "ini": 0.68,
+      "fim": 1.02
+     },
+     {
+      "w": "fotografias",
+      "ini": 1.02,
+      "fim": 1.96
+     },
+     {
+      "w": "e",
+      "ini": 1.96,
+      "fim": 2.6
+     },
+     {
+      "w": "encontrou",
+      "ini": 2.6,
+      "fim": 3.18
+     },
+     {
+      "w": "a",
+      "ini": 3.18,
+      "fim": 3.3
+     },
+     {
+      "w": "mesma",
+      "ini": 3.3,
+      "fim": 3.54
+     },
+     {
+      "w": "figura",
+      "ini": 3.54,
+      "fim": 4.06
+     },
+     {
+      "w": "em",
+      "ini": 4.06,
+      "fim": 4.22
+     },
+     {
+      "w": "todas",
+      "ini": 4.22,
+      "fim": 4.42
+     },
+     {
+      "w": "elas,",
+      "ini": 4.42,
+      "fim": 4.88
+     },
+     {
+      "w": "sempre",
+      "ini": 5.28,
+      "fim": 5.76
+     },
+     {
+      "w": "mais",
+      "ini": 5.76,
+      "fim": 6.12
+     },
+     {
+      "w": "pé.",
+      "ini": 6.12,
+      "fim": 6.42
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": false,
+    "dur": 6.567,
+    "sil_por_s": 4.72,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.8177,
+    "f0": null
+   }
+  ],
+  "janela_util": 10.65,
+  "escolhido": {
+   "rotulo": "n3_A",
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n3_A.wav",
+   "asr": "Ele procurou outras fotografias e encontrou a mesma figura em todas elas, sempre mais perto.",
+   "palavras": [
+    {
+     "w": "Ele",
+     "ini": 0.0,
+     "fim": 0.16
+    },
+    {
+     "w": "procurou",
+     "ini": 0.16,
+     "fim": 0.68
+    },
+    {
+     "w": "outras",
+     "ini": 0.68,
+     "fim": 0.94
+    },
+    {
+     "w": "fotografias",
+     "ini": 0.94,
+     "fim": 1.86
+    },
+    {
+     "w": "e",
+     "ini": 1.86,
+     "fim": 2.36
+    },
+    {
+     "w": "encontrou",
+     "ini": 2.36,
+     "fim": 2.94
+    },
+    {
+     "w": "a",
+     "ini": 2.94,
+     "fim": 3.08
+    },
+    {
+     "w": "mesma",
+     "ini": 3.08,
+     "fim": 3.44
+    },
+    {
+     "w": "figura",
+     "ini": 3.44,
+     "fim": 4.06
+    },
+    {
+     "w": "em",
+     "ini": 4.06,
+     "fim": 4.28
+    },
+    {
+     "w": "todas",
+     "ini": 4.28,
+     "fim": 4.58
+    },
+    {
+     "w": "elas,",
+     "ini": 4.58,
+     "fim": 5.12
+    },
+    {
+     "w": "sempre",
+     "ini": 5.46,
+     "fim": 6.12
+    },
+    {
+     "w": "mais",
+     "ini": 6.12,
+     "fim": 6.4
+    },
+    {
+     "w": "perto.",
+     "ini": 6.4,
+     "fim": 6.72
+    }
+   ],
+   "tokens_pontuacao": [],
+   "portao_palavra": true,
+   "portao_texto": true,
+   "dur": 7.676,
+   "sil_por_s": 4.04,
+   "atempo_necessario": 1.0,
+   "embedding_cos": 0.8071,
+   "f0": 136.3
+  }
+ },
+ "n4": {
+  "itens": [
+   {
+    "rotulo": "n4_A",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n4_A.wav",
+    "asr": "Assustado. Mostrou as imagens para um amigo.  Mas o amigo ficou em silêncio.",
+    "palavras": [
+     {
+      "w": "Assustado.",
+      "ini": 0.6,
+      "fim": 1.16
+     },
+     {
+      "w": "Mostrou",
+      "ini": 1.54,
+      "fim": 2.1
+     },
+     {
+      "w": "as",
+      "ini": 2.1,
+      "fim": 2.28
+     },
+     {
+      "w": "imagens",
+      "ini": 2.28,
+      "fim": 2.84
+     },
+     {
+      "w": "para",
+      "ini": 2.84,
+      "fim": 3.1
+     },
+     {
+      "w": "um",
+      "ini": 3.1,
+      "fim": 3.22
+     },
+     {
+      "w": "amigo.",
+      "ini": 3.22,
+      "fim": 3.58
+     },
+     {
+      "w": "Mas",
+      "ini": 4.02,
+      "fim": 4.24
+     },
+     {
+      "w": "o",
+      "ini": 4.24,
+      "fim": 4.36
+     },
+     {
+      "w": "amigo",
+      "ini": 4.36,
+      "fim": 4.62
+     },
+     {
+      "w": "ficou",
+      "ini": 4.62,
+      "fim": 4.92
+     },
+     {
+      "w": "em",
+      "ini": 4.92,
+      "fim": 5.16
+     },
+     {
+      "w": "silêncio.",
+      "ini": 5.16,
+      "fim": 5.66
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 5.727,
+    "sil_por_s": 4.71,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.7638,
+    "f0": 115.9
+   },
+   {
+    "rotulo": "n4_B",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n4_B.wav",
+    "asr": "assustado, mostrou as imagens para um amigo  mas o amigo ficou em silêncio",
+    "palavras": [
+     {
+      "w": "assustado,",
+      "ini": 0.0,
+      "fim": 0.74
+     },
+     {
+      "w": "mostrou",
+      "ini": 0.86,
+      "fim": 1.42
+     },
+     {
+      "w": "as",
+      "ini": 1.42,
+      "fim": 1.56
+     },
+     {
+      "w": "imagens",
+      "ini": 1.56,
+      "fim": 1.96
+     },
+     {
+      "w": "para",
+      "ini": 1.96,
+      "fim": 2.24
+     },
+     {
+      "w": "um",
+      "ini": 2.24,
+      "fim": 2.36
+     },
+     {
+      "w": "amigo",
+      "ini": 2.36,
+      "fim": 2.74
+     },
+     {
+      "w": "mas",
+      "ini": 17.73,
+      "fim": 18.06
+     },
+     {
+      "w": "o",
+      "ini": 18.06,
+      "fim": 18.3
+     },
+     {
+      "w": "amigo",
+      "ini": 18.3,
+      "fim": 18.54
+     },
+     {
+      "w": "ficou",
+      "ini": 18.54,
+      "fim": 18.94
+     },
+     {
+      "w": "em",
+      "ini": 18.94,
+      "fim": 19.16
+     },
+     {
+      "w": "silêncio",
+      "ini": 19.16,
+      "fim": 19.64
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 19.764,
+    "sil_por_s": 1.37,
+    "atempo_necessario": 3.35,
+    "embedding_cos": 0.7723,
+    "f0": null
+   }
+  ],
+  "janela_util": 5.9,
+  "escolhido": {
+   "rotulo": "n4_A",
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/n4_A.wav",
+   "asr": "Assustado. Mostrou as imagens para um amigo.  Mas o amigo ficou em silêncio.",
+   "palavras": [
+    {
+     "w": "Assustado.",
+     "ini": 0.6,
+     "fim": 1.16
+    },
+    {
+     "w": "Mostrou",
+     "ini": 1.54,
+     "fim": 2.1
+    },
+    {
+     "w": "as",
+     "ini": 2.1,
+     "fim": 2.28
+    },
+    {
+     "w": "imagens",
+     "ini": 2.28,
+     "fim": 2.84
+    },
+    {
+     "w": "para",
+     "ini": 2.84,
+     "fim": 3.1
+    },
+    {
+     "w": "um",
+     "ini": 3.1,
+     "fim": 3.22
+    },
+    {
+     "w": "amigo.",
+     "ini": 3.22,
+     "fim": 3.58
+    },
+    {
+     "w": "Mas",
+     "ini": 4.02,
+     "fim": 4.24
+    },
+    {
+     "w": "o",
+     "ini": 4.24,
+     "fim": 4.36
+    },
+    {
+     "w": "amigo",
+     "ini": 4.36,
+     "fim": 4.62
+    },
+    {
+     "w": "ficou",
+     "ini": 4.62,
+     "fim": 4.92
+    },
+    {
+     "w": "em",
+     "ini": 4.92,
+     "fim": 5.16
+    },
+    {
+     "w": "silêncio.",
+     "ini": 5.16,
+     "fim": 5.66
+    }
+   ],
+   "tokens_pontuacao": [],
+   "portao_palavra": true,
+   "portao_texto": true,
+   "dur": 5.727,
+   "sil_por_s": 4.71,
+   "atempo_necessario": 1.0,
+   "embedding_cos": 0.7638,
+   "f0": 115.9
+  }
+ },
+ "d4": {
+  "itens": [
+   {
+    "rotulo": "d4_A",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/d4_A.wav",
+    "asr": "Você também está vendo isso?",
+    "palavras": [
+     {
+      "w": "Você",
+      "ini": 0.0,
+      "fim": 0.96
+     },
+     {
+      "w": "também",
+      "ini": 0.96,
+      "fim": 1.32
+     },
+     {
+      "w": "está",
+      "ini": 1.32,
+      "fim": 1.52
+     },
+     {
+      "w": "vendo",
+      "ini": 1.52,
+      "fim": 1.7
+     },
+     {
+      "w": "isso?",
+      "ini": 1.7,
+      "fim": 2.08
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 2.795,
+    "sil_por_s": 3.58,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.7064,
+    "f0": null
+   },
+   {
+    "rotulo": "d4_B",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/d4_B.wav",
+    "asr": "Você também está vendo isso?",
+    "palavras": [
+     {
+      "w": "Você",
+      "ini": 0.0,
+      "fim": 0.2
+     },
+     {
+      "w": "também",
+      "ini": 0.2,
+      "fim": 0.6
+     },
+     {
+      "w": "está",
+      "ini": 0.6,
+      "fim": 0.92
+     },
+     {
+      "w": "vendo",
+      "ini": 0.92,
+      "fim": 1.12
+     },
+     {
+      "w": "isso?",
+      "ini": 1.12,
+      "fim": 1.56
+     }
+    ],
+    "tokens_pontuacao": [],
+    "portao_palavra": true,
+    "portao_texto": true,
+    "dur": 1.685,
+    "sil_por_s": 5.93,
+    "atempo_necessario": 1.0,
+    "embedding_cos": 0.7411,
+    "f0": null
+   }
+  ],
+  "janela_util": 3.7,
+  "escolhido": {
+   "rotulo": "d4_B",
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/saida_v4_dl/d4_B.wav",
+   "asr": "Você também está vendo isso?",
+   "palavras": [
+    {
+     "w": "Você",
+     "ini": 0.0,
+     "fim": 0.2
+    },
+    {
+     "w": "também",
+     "ini": 0.2,
+     "fim": 0.6
+    },
+    {
+     "w": "está",
+     "ini": 0.6,
+     "fim": 0.92
+    },
+    {
+     "w": "vendo",
+     "ini": 0.92,
+     "fim": 1.12
+    },
+    {
+     "w": "isso?",
+     "ini": 1.12,
+     "fim": 1.56
+    }
+   ],
+   "tokens_pontuacao": [],
+   "portao_palavra": true,
+   "portao_texto": true,
+   "dur": 1.685,
+   "sil_por_s": 5.93,
+   "atempo_necessario": 1.0,
+   "embedding_cos": 0.7411,
+   "f0": null
+  }
+ }
+}

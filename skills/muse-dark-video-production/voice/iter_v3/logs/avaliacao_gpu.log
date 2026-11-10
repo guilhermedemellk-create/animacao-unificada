@@ -1,0 +1,13 @@
+/home/hatch/workspace/video_project/producao_volta10s_v3/audio_clone/venv_clone/lib/python3.12/site-packages/resemblyzer/voice_encoder.py:43: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(weights_fpath, map_location="cpu")
+Device set to use cpu
+`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.
+frase2 frase2_g1: portao=True emb=0.7892 f0=133.9 sil/s=3.52 :: Ele ouviu passos no corredor, mas não havia ninguém lá.
+frase2 frase2_g2: portao=False emb=0.8122 f0=128.6 sil/s=3.31 :: Ele ouviu o passo no corredor, mas não havia ninguém lá.
+frase2 frase2_g3: portao=False emb=0.7096 f0=130.1 sil/s=4.04 :: Ele ouviu o passo no corredor, mas não havia ninguém lá.
+-> frase2: melhor GPU = frase2_g1 (baseline final_v3_c5 0.7795) promove=True
+frase3 frase3_g1: portao=True emb=0.7607 f0=149.5 sil/s=7.01 :: Você também escutou esse barulho no escuro?
+frase3 frase3_g2: portao=True emb=0.7434 f0=121.4 sil/s=7.65 :: Você também escutou esse barulho no escuro.
+frase3 frase3_g3: portao=True emb=0.7461 f0=149.5 sil/s=7.98 :: Você também escutou esse barulho no escuro?
+-> frase3: melhor GPU = None (baseline v2_vigente 0.788) promove=False
+AVALIACAO_GPU_DONE

@@ -1,0 +1,15 @@
+Device set to use cpu
+`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.
+frase1 tent1: f0=129.4 dur=4.57 exata=True proibidas=[] :: Naquela casa, ninguém atendia depois da meia-noite.
+frase1 tent2: f0=126.4 dur=5.59 exata=False proibidas=['ponto'] :: Naquela casa, ninguém atendia depois da meia-noite. Ponto.
+frase1 tent3: f0=126.4 dur=10.22 exata=True proibidas=[] :: Naquela casa, ninguém atendia depois da meia-noite?
+-> frase1: escolhido tent3 -> /home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase1_v2.wav
+frase2 tent1: f0=126.4 dur=6.22 exata=False proibidas=[] :: Ele ouviu o passo no corredor, mas não havia ninguém lá.
+frase2 tent2: f0=143.1 dur=4.72 exata=True proibidas=[] :: Ele ouviu passos no corredor, mas não havia ninguém lá.
+frase2 tent3: f0=112.0 dur=4.17 exata=True proibidas=[] :: Ele ouviu passos no corredor. Mas não havia ninguém lá.
+-> frase2: escolhido tent3 -> /home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase2_v2.wav
+frase3 tent1: f0=139.9 dur=5.76 exata=True proibidas=[] :: Você também escutou esse barulho no escuro?
+frase3 tent2: f0=142.7 dur=2.20 exata=True proibidas=[] :: Você também escutou esse barulho no escuro?
+frase3 tent3: f0=134.7 dur=2.20 exata=True proibidas=[] :: Você também escutou esse barulho no escuro?
+-> frase3: escolhido tent2 -> /home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase3_v2.wav
+AVALIACAO_DONE

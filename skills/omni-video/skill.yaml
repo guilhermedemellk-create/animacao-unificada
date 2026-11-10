@@ -1,0 +1,5 @@
+name: "omni-video"
+title: "omni-video"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Generate and edit videos with Google's gemini-omni-flash-preview (Omni Flash) via the stateful Interactions API. Use when the user asks to generate a video, edit or iterate on a video, animate a still image, interpolate between keyframes, generate video with subject reference images, edit an existing local video, upload a video to YouTube, or set up/debug the Omni video MCP agent. Triggers include \"generate a video\", \"animate this image\", \"omni flash\", \"omni-video\", \"video interpolation\", \"interaction id\", \"upload to YouTube\"."
+category: "Work and knowledge"
+include_in_prompt: true

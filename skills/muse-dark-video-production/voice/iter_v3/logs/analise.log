@@ -1,0 +1,8 @@
+trechos: 12
+Device set to use cpu
+`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.
+ASR trecho_01_0.0s.wav :: Se durante as férias você tem o costume de ficar acordado até tarde
+ASR trecho_02_9.5s.wav :: Olhando para a tela do celular.
+ASR trecho_03_11.8s.wav :: Você quebrou o padrão de repouso do celular.
+ASR trecho_04_18.2s.wav :: É um isolamento induzido.
+ASR trecho_05_20.8s.wav :: diante desta situação.

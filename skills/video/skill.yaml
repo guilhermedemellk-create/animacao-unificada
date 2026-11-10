@@ -1,0 +1,5 @@
+name: "video"
+title: "Video (FFmpeg + Remotion editing: captions, teasers, Shorts)"
+description: "Edit, process and render videos using FFmpeg and Remotion: stitching, transitions, SRT burn-in and word-by-word captions, teasers/Shorts from long-form video, title cards and transcription. Playbook skill (SKILL.md + references, no bundled code). From github.com/aiautomizes-web/jessica-openclaw-skills-v1 (skills/video)."
+category: "Work and knowledge"
+include_in_prompt: true

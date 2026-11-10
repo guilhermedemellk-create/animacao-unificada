@@ -1,0 +1,5 @@
+name: "pixar-style-ad"
+title: "pixar-style-ad"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Turn a brand and product into a finished vertical feature-film-style 3D animated ad on the Advibly MCP. Lock an original expressive cast and 4-beat story, create sequential gpt-image-2 storyboard stills, animate 8-second shots with Gemini Omni Flash by default or Seedance 2.0 as fallback, then compose narration, music, and SFX. Trigger for \"Pixar-style ad\", \"Pixar cartoon ad\", \"3D animated product ad\", \"animated ad with a talking problem\", a warm big-eyed feature-animation look, or a matching reference. If the user explicitly names Gemini Omni Flash or Seedance 2.0, use that model."
+category: "Work and knowledge"
+include_in_prompt: true

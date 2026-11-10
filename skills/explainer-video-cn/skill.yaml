@@ -1,0 +1,5 @@
+name: "explainer-video-cn"
+title: "explainer-video"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. 把一个话题/开源项目/知识点做成中文科普短视频，带口播、逐字字幕、配乐音效，可以直接发抖音/小红书/B站/视频号/X。两种画风：①「手绘笔记」白板动画（横屏 16:9 为主，适合概念讲解）；②「拟真出镜」竖屏 9:16（带口型同步的出镜主播 + 真实截图 + 手绘标注 + 手持镜头/颗粒，适合热点、产品、开源项目介绍）。包含：选题研究与事实核查、口语化写稿、配音→逐字时间轴（TTS 或真人录音自动对齐）、画面卡点、自动配乐音效与混音、静帧质检评分、各平台文案。"
+category: "Work and knowledge"
+include_in_prompt: true

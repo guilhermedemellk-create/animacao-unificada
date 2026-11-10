@@ -1,0 +1,28 @@
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 1393.25it/s]
+modelo carregado em 49s
+MULTI refs: ['trecho_10_60.0s.wav', 'trecho_12_81.4s.wav', 'trecho_06_22.6s.wav', 'trecho_07_30.2s.wav']
+OK frase1_c1.wav dur=3.61s (42s)
+OK frase1_c2.wav dur=4.20s (41s)
+OK frase1_c3.wav dur=3.31s (32s)
+OK frase1_c4.wav dur=7.13s (61s)
+OK frase1_c5.wav dur=3.90s (39s)
+OK frase1_c6.wav dur=5.53s (48s)
+OK frase1_c7.wav dur=5.97s (56s)
+OK frase1_c8.wav dur=3.24s (43s)
+OK frase2_c1.wav dur=8.16s (89s)
+OK frase2_c2.wav dur=4.04s (46s)
+OK frase2_c3.wav dur=6.37s (63s)
+OK frase2_c4.wav dur=4.45s (54s)
+OK frase2_c5.wav dur=4.64s (61s)
+OK frase2_c6.wav dur=4.66s (61s)
+OK frase2_c7.wav dur=5.53s (68s)
+OK frase2_c8.wav dur=3.55s (47s)
+OK frase3_c1.wav dur=2.37s (33s)
+OK frase3_c2.wav dur=5.82s (56s)
+OK frase3_c3.wav dur=2.39s (36s)
+OK frase3_c4.wav dur=2.35s (31s)
+OK frase3_c5.wav dur=2.28s (35s)
+OK frase3_c6.wav dur=2.94s (34s)
+OK frase3_c7.wav dur=3.29s (34s)
+OK frase3_c8.wav dur=1.94s (23s)
+SINTESE_V3_DONE

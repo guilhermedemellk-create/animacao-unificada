@@ -1,0 +1,5 @@
+name: "claymation-ad"
+title: "claymation-ad"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Turn a brand and product into a finished stop-motion claymation ad on the Advibly MCP. Lock a cast and narrated story, generate sequential hand-sculpted plasticine storyboard stills, animate them with Gemini Omni Flash by default or Seedance 2.0 as fallback, then compose voiceover, music, and clay foley. Trigger for \"claymation ad\", \"Aardman-style ad\", \"stop-motion ad\", \"Wallace and Gromit style ad\", \"plasticine ad\", \"clay-style ad\", a product ad in a hand-sculpted clay look, or a matching visual reference. Use even when the user does not name the skill but clearly wants a narrated clay stop-motion product story."
+category: "Work and knowledge"
+include_in_prompt: true

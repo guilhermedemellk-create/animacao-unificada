@@ -1,0 +1,5 @@
+name: "remotion-motion-graphics"
+title: "Remotion Motion Graphics"
+description: "Create and edit professional motion graphics videos with Remotion (React-based video): intros, Shorts/Reels, promos, text animations and captions, with strict motion-design rules and a mandatory render-inspect-fix loop. From the claude-remotion-skill GitHub repo (MIT)."
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,33 @@
+{
+ "1": {
+  "fonte": "candidatos/frase1_c3.wav",
+  "cadeia_pos": [],
+  "arquivo_final": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase1_v3.wav",
+  "asr": "Naquela casa, ninguém atendia depois da meia noite.",
+  "portao": true,
+  "proibidas": [],
+  "embedding_cos": 0.7604,
+  "f0": 109.7,
+  "dur": 3.31,
+  "centroide": 1072.0,
+  "sil_por_s": 4.83
+ },
+ "2": {
+  "fonte": "candidatos/frase2_c5.wav",
+  "cadeia_pos": [],
+  "reversao": "atempo=1.20 testado e REVERTIDO: embedding caiu de 0,7795 para 0,7460 (abaixo da v2, 0,7642). Vale a versao bruta.",
+  "arquivo_final": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase2_v3.wav",
+  "asr": "Ele ouviu passos no corredor... mas não havia ninguém lá.",
+  "portao": true,
+  "proibidas": [],
+  "embedding_cos": 0.7795,
+  "f0": 121.4,
+  "dur": 4.64,
+  "sil_por_s": 3.66,
+  "nota": "embedding/F0/dur medidos no arquivo bruto identico na avaliacao_v3"
+ },
+ "3": {
+  "decisao": "v2 permanece (nenhum candidato na faixa de ritmo superou emb 0,7880 da v2)",
+  "arquivo_removido": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/teste_frase3_v3.wav"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "2": {
+  "itens": [
+   {
+    "rotulo": "frase2_g1",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/candidatos_gpu/frase2_g1.wav",
+    "asr": "Ele ouviu passos no corredor, mas não havia ninguém lá.",
+    "portao": true,
+    "proibidas": [],
+    "embedding_cos": 0.7892,
+    "f0": 133.9,
+    "dur": 4.83,
+    "sil_por_s": 3.52
+   },
+   {
+    "rotulo": "frase2_g2",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/candidatos_gpu/frase2_g2.wav",
+    "asr": "Ele ouviu o passo no corredor, mas não havia ninguém lá.",
+    "portao": false,
+    "proibidas": [],
+    "embedding_cos": 0.8122,
+    "f0": 128.6,
+    "dur": 5.13,
+    "sil_por_s": 3.31
+   },
+   {
+    "rotulo": "frase2_g3",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/candidatos_gpu/frase2_g3.wav",
+    "asr": "Ele ouviu o passo no corredor, mas não havia ninguém lá.",
+    "portao": false,
+    "proibidas": [],
+    "embedding_cos": 0.7096,
+    "f0": 130.1,
+    "dur": 4.21,
+    "sil_por_s": 4.04
+   }
+  ],
+  "baseline": {
+   "rotulo": "final_v3_c5",
+   "embedding_cos": 0.7795
+  },
+  "melhor_gpu": {
+   "rotulo": "frase2_g1",
+   "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/candidatos_gpu/frase2_g1.wav",
+   "asr": "Ele ouviu passos no corredor, mas não havia ninguém lá.",
+   "portao": true,
+   "proibidas": [],
+   "embedding_cos": 0.7892,
+   "f0": 133.9,
+   "dur": 4.83,
+   "sil_por_s": 3.52
+  },
+  "promove": true
+ },
+ "3": {
+  "itens": [
+   {
+    "rotulo": "frase3_g1",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/candidatos_gpu/frase3_g1.wav",
+    "asr": "Você também escutou esse barulho no escuro?",
+    "portao": true,
+    "proibidas": [],
+    "embedding_cos": 0.7607,
+    "f0": 149.5,
+    "dur": 2.28,
+    "sil_por_s": 7.01
+   },
+   {
+    "rotulo": "frase3_g2",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/candidatos_gpu/frase3_g2.wav",
+    "asr": "Você também escutou esse barulho no escuro.",
+    "portao": true,
+    "proibidas": [],
+    "embedding_cos": 0.7434,
+    "f0": 121.4,
+    "dur": 2.09,
+    "sil_por_s": 7.65
+   },
+   {
+    "rotulo": "frase3_g3",
+    "arquivo": "/home/hatch/workspace/custom-skills/muse-dark-video-production/voice/iter_v3/candidatos_gpu/frase3_g3.wav",
+    "asr": "Você também escutou esse barulho no escuro?",
+    "portao": true,
+    "proibidas": [],
+    "embedding_cos": 0.7461,
+    "f0": 149.5,
+    "dur": 2.01,
+    "sil_por_s": 7.98
+   }
+  ],
+  "baseline": {
+   "rotulo": "v2_vigente",
+   "embedding_cos": 0.788
+  },
+  "melhor_gpu": null,
+  "promove": false
+ }
+}

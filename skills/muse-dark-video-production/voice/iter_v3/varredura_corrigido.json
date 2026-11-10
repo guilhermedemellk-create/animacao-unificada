@@ -1,0 +1,134 @@
+{
+ "arquivo": "iter_v3/trilha_corrigido.wav",
+ "asr": "Naquela casa, ninguém atendia depois da meia noite.  Ele ouviu passos no corredor.  Mas não havia ninguém lá.  Você também escutou esse barulho no escuro?",
+ "palavras": [
+  {
+   "w": "Naquela",
+   "ini": 0.0,
+   "fim": 0.52
+  },
+  {
+   "w": "casa,",
+   "ini": 0.52,
+   "fim": 0.98
+  },
+  {
+   "w": "ninguém",
+   "ini": 1.3,
+   "fim": 1.64
+  },
+  {
+   "w": "atendia",
+   "ini": 1.64,
+   "fim": 2.2
+  },
+  {
+   "w": "depois",
+   "ini": 2.2,
+   "fim": 2.46
+  },
+  {
+   "w": "da",
+   "ini": 2.46,
+   "fim": 2.68
+  },
+  {
+   "w": "meia",
+   "ini": 2.68,
+   "fim": 2.9
+  },
+  {
+   "w": "noite.",
+   "ini": 2.9,
+   "fim": 3.08
+  },
+  {
+   "w": "Ele",
+   "ini": 3.56,
+   "fim": 3.86
+  },
+  {
+   "w": "ouviu",
+   "ini": 3.86,
+   "fim": 4.32
+  },
+  {
+   "w": "passos",
+   "ini": 4.32,
+   "fim": 5.0
+  },
+  {
+   "w": "no",
+   "ini": 5.0,
+   "fim": 5.14
+  },
+  {
+   "w": "corredor.",
+   "ini": 5.14,
+   "fim": 5.72
+  },
+  {
+   "w": "Mas",
+   "ini": 6.2,
+   "fim": 6.86
+  },
+  {
+   "w": "não",
+   "ini": 6.86,
+   "fim": 7.02
+  },
+  {
+   "w": "havia",
+   "ini": 7.02,
+   "fim": 7.28
+  },
+  {
+   "w": "ninguém",
+   "ini": 7.28,
+   "fim": 7.64
+  },
+  {
+   "w": "lá.",
+   "ini": 7.64,
+   "fim": 7.88
+  },
+  {
+   "w": "Você",
+   "ini": 8.82,
+   "fim": 9.52
+  },
+  {
+   "w": "também",
+   "ini": 9.52,
+   "fim": 9.86
+  },
+  {
+   "w": "escutou",
+   "ini": 9.86,
+   "fim": 10.34
+  },
+  {
+   "w": "esse",
+   "ini": 10.34,
+   "fim": 10.54
+  },
+  {
+   "w": "barulho",
+   "ini": 10.54,
+   "fim": 11.0
+  },
+  {
+   "w": "no",
+   "ini": 11.0,
+   "fim": 11.08
+  },
+  {
+   "w": "escuro?",
+   "ini": 11.08,
+   "fim": 11.48
+  }
+ ],
+ "tokens_pontuacao": [],
+ "zerado": true,
+ "texto_confere": null
+}

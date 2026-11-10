@@ -1,0 +1,5 @@
+name: "videoediting"
+title: "videoediting"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Edit already-shot footage with ffmpeg: re-cut by speech, colour grading, word-level burned-in subtitles, infographic and meaning overlays, assembling vertical videos for Reels/Shorts/TikTok. Invoked with /videoediting. Use when the user says 'edit this video', 're-cut', 'trim the pauses', 'colour grade', 'add subtitles', 'burn in captions', 'add infographics to the video', 'make a reel', 'make a short', 'vertical video', 'stitch these clips', 'normalise the audio', or hands over a .mov/.mp4 and asks to turn it into something watchable. Not for generating footage from scratch with AI models (Veo, Sora, HeyGen, Remotion)."
+category: "Work and knowledge"
+include_in_prompt: true

@@ -1,0 +1,5 @@
+name: "mma-animation"
+title: "mma-animation"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Generate Annie's explainer animations (the MMA episode b-roll system) locally in one of seven themes — classic (the original light look, default), dark, blueprint (diagram/grid), pop (playful sticker), luxe (OLED glass), minimal (Notion editorial), industrial (Swiss brutalist) — from a video script. Authors a seekable HTML timeline and renders 5K MP4 master + per-scene clips + manifest. Use whenever Annie wants an animation/b-roll/动画 for a script or episode, names any of those theme words, or wants to re-render/extend/tweak an existing animation — even if she doesn't say \"skill\"."
+category: "Work and knowledge"
+include_in_prompt: true

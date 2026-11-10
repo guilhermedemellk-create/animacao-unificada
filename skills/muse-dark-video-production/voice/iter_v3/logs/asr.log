@@ -1,0 +1,15 @@
+Device set to use cpu
+`return_token_timestamps` is deprecated for WhisperFeatureExtractor and will be removed in Transformers v5. Use `return_attention_mask` instead, as the number of frames can be inferred from it.
+ASR trecho_01_0.0s.wav :: Se durante as férias você tem o costume de ficar acordado até tarde
+ASR trecho_02_9.5s.wav :: Olhando para a tela do celular.
+ASR trecho_03_11.8s.wav :: Você quebrou o padrão de repouso do celular.
+ASR trecho_04_18.2s.wav :: É um isolamento induzido.
+ASR trecho_05_20.8s.wav :: diante desta situação.
+ASR trecho_06_22.6s.wav :: Siga estas instruções imediatamente. Primeiro, se você sentir que há algo parado ao lado da sua cama,
+ASR trecho_07_30.2s.wav :: ou notar uma sombra se movendo no canto do olho, não vire a cabeça. Não tente focar a visão.
+ASR trecho_08_41.2s.wav :: mas olhar diretamente.
+ASR trecho_09_46.3s.wav :: ela saberá que foi vista.
+ASR trecho_10_60.0s.wav :: Se passar das três horas da manhã, nenhum dos seus familiares está acordado. O som é uma simulação para fazer você sair da segurança do quarto. Caso os passos comecem a vir em direção à sua porta.
+ASR trecho_11_75.5s.wav :: e cubra-se até o pescoço.
+ASR trecho_12_81.4s.wav :: O que está no corredor sabe que há alguém acordado na casa, mas ainda não tem certeza de qual quarto é o seu.
+ASR_DONE

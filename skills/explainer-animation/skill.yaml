@@ -1,0 +1,5 @@
+name: "explainer-animation"
+title: "explainer-animation"
+description: "Enviada pelo usuário em 2026-11-08 no pacote de skills do PC dele (pasta 'E:\\skills muse', 4 zips, ~175 MB, 104 skills), instalada intacta. Autonomously produce a professional 30–60 s whimsical, hand-drawn paper-collage explainer animation in pure JavaScript (canvas + Web Audio) about what the current project does and how. Includes neural-TTS narration, a synthesised score and sound effects, a self-contained HTML player and an MP4 export. Use when the user asks for an explainer video, animated intro, promo or \"what does this project do\" animation, or invokes /explainer-animation. Honours a requested narration language (default English) and a token budget (default 10 USD)."
+category: "Work and knowledge"
+include_in_prompt: true
